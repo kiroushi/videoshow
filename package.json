@@ -39,9 +39,9 @@
   ],
   "dependencies": {
     "ass-stringify": "^0.1.1",
-    "fluent-ffmpeg": "^2.0.0",
+    "fluent-ffmpeg": "https://github.com/fluent-ffmpeg/node-fluent-ffmpeg.git#12667091eeea09b0d6a55b87eb886aa131178608",
     "fw": "^0.1.2",
-    "lil-uuid": "^0.1.0",
+    "lil-uuid": "^0.1.1",
     "lodash.merge": "^4.6.2",
     "yargs": "^3.5.4"
   },
